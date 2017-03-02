@@ -9,21 +9,18 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The Open Data Cube Project (The Project) is an open source software project
-affiliated with the 501c3 NumFocus Foundation. The goal of The Project is to
+The Open Data Cube Project (The Project) is an open source software project. The goal of The Project is to
 develop open source software and deploy open and public websites and services
-for reproducible, exploratory and interactive computing. The Software developed
-by The Project is released under the BSD (or similar) open source license,
+for encouraging the uptake and usage of Earth Observation data for the greater public good. The Software developed
+by The Project is released under the Apache 2 (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
-[ODC GitHub organization](https://github.com/opendatacube) and the
-[Open Data Cube GitHub organization](https://github.com/Open Data Cube). Examples of
+[ODC GitHub organization](https://github.com/opendatacube). Examples of
 Project Software include the DataCube Core, the CEOS UI, and various other algorithms and addins, etc.
 The Services run by the
 Project consist of public websites and web-services that are hosted
 under the opendatacubeproject.org domain. The Services Examples of
 Project Services include the Open Data Cube and  websites
-([http://Open Data Cube.org](http://Open Data Cube.org) and
-[http://ipython.org](http://ipython.org)), nbviewer.
+([http://Open Data Cube.org](http://Open Data Cube.org).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
