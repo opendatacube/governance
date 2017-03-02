@@ -1,6 +1,6 @@
-# Project Open DataCube Governance
+# Project Open Data Cube Governance
 
-The purpose of this repository is to formalize the governance process that the Open DataCube project has used informally since its inception in 2001. This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
+The purpose of this repository is to formalize the governance process that the Open Data Cube project has used informally since its inception in 2001. This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
 ## Table of Contents
 
@@ -10,4 +10,4 @@ The purpose of this repository is to formalize the governance process that the O
 
 ## License of Governance Documents
 
-To the extent possible under law, Project Open DataCube has waived all copyright and related or neighboring rights to the Project Open DataCube Governance documents, in accordance with the Creative Commons [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). This work is published from the United States.  See the LICENSE.md file in this repository for details.
+To the extent possible under law, Project Open Data Cube has waived all copyright and related or neighboring rights to the Project Open DataCube Governance documents, in accordance with the Creative Commons [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). This work is published from the United States.  See the LICENSE.md file in this repository for details.
