@@ -4,7 +4,7 @@ The official version of this document, along with a list of
 individuals and institutions in the roles defined in the governance
 section below, is contained in The Project Governance Repository at:
 
-[https://github.com/Open DataCube/governance](https://github.com/Open DataCube/governance)
+[https://github.com/opendatacube/governance](https://github.com/opendatacube/governance)
 
 The Project
 ===========
@@ -20,7 +20,7 @@ The Services run by the
 Project consist of public websites and web-services that are hosted
 under the opendatacubeproject.org domain. The Services Examples of
 Project Services include the Open DataCube and  websites
-([http://Open DataCube.org](http://Open DataCube.org).
+([http://opendatacube.org](http://opendatacube.org).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -40,13 +40,6 @@ The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
 Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
-
-The Project is formally affiliated with the 501c3 NumFOCUS Foundation
-([http://numfocus.org](http://numfocus.org)), which serves as its fiscal
-sponsor, may hold project trademarks and other intellectual property, helps
-manage project donations and acts as a parent legal entity. NumFOCUS is the
-only legal entity that has a formal relationship with the project (see
-Institutional Partners section below).
 
 Governance
 ==========
@@ -247,7 +240,7 @@ Changing the Governance Documents
 
 Changes to the governance documents are submitted via a GitHub pull
 request to The Project's governance documents GitHub repository at
-[https://github.com/Open DataCube/governance](https://github.com/Open DataCube/governance).
+[https://github.com/opendatacube/governance](https://github.com/opendatacube/governance).
 The pull request is then refined in response to public comment and
 review, with the goal being consensus in the community.  After this
 open period, a Steering Council Member proposes to the Steering
