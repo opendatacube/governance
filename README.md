@@ -1,6 +1,6 @@
 # Project Open Data Cube Governance
 
-The purpose of this repository is to formalize the governance process that the IPython/Open Data Cube project has used informally since its inception in 2001. This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
+The purpose of this repository is to formalize the governance process that the Open Data Cube project has used informally since its inception in 2001. This document clarifies how decisions are made and how the various elements of our community interact, including the relationship between open source collaborative development and work that may be funded by for-profit or non-profit entities.
 
 ## Table of Contents
 

@@ -9,7 +9,7 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The Open Data Cube/IPython Project (The Project) is an open source software project
+The Open Data Cube Project (The Project) is an open source software project
 affiliated with the 501c3 NumFocus Foundation. The goal of The Project is to
 develop open source software and deploy open and public websites and services
 for reproducible, exploratory and interactive computing. The Software developed
@@ -68,54 +68,13 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-Traditionally, Project leadership was provided by a BDFL (Fernando Perez) and
-subset of Contributors, called Core Developers, whose active and consistent
-contributions have been recognized by their receiving “commit rights” to the
-Project GitHub repositories. In general all Project decisions are made through
-consensus among the Core Developers with input from the Community. The BDFL
-can, but rarely chooses to, override the Core Developers and make a final
-decision on a matter.
-
-While this approach has served us well, as the Project grows and faces more
-legal and financial decisions and interacts with other institutions, we see a
-need for a more formal governance model. Moving forward The Project leadership
-will consist of a BDFL and Steering Council. We view this governance model as
-the formalization of what we are already doing, rather than a change in
-direction.
-
-BDFL
-----
-
-The Project will have a BDFL (Benevolent Dictator for Life), who is currently
-Fernando Perez. As Dictator, the BDFL has the authority to make all final
-decisions for The Project. As Benevolent, the BDFL, in practice chooses to
-defer that authority to the consensus of the community discussion channels and
-the Steering Council (see below). It is expected, and in the past has been the
-case, that the BDFL will only rarely assert his/her final authority. Because
-rarely used, we refer to BDFL’s final authority as a “special” or “overriding”
-vote. When it does occur, the BDFL override typically happens in situations
-where there is a deadlock in the Steering Council or if the Steering Council
-asks the BDFL to make a decision on a specific matter. To ensure the
-benevolence of the BDFL, The Project encourages others to fork the project if
-they disagree with the overall direction the BDFL is taking. The BDFL is chair
-of the Steering Council (see below) and may delegate his/her authority on a
-particular decision or set of decisions to any other Council member at his/her
-discretion.
-
-The BDFL can appointing his/her successor, but it is expected that the Steering
-Council would be consulted on this decision. If the BDFL is unable to appoint a
-successor, the Steering Council will make a suggestion or suggestions to the
-Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will
-work together closely on the BDFL selection process, the Main NUMFOCUS Board
-will make the final decision.
-
 Steering Council
 ----------------
 
 The Project will have a Steering Council that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through working with the BDFL and taking input from the Community, the
+ensure, through taking input from the Community, the
 long-term well-being of the project, both technically and as a community.
 
 During the everyday project activities, council members participate in all
@@ -166,7 +125,7 @@ evaluated.
 
 If a Council member becomes inactive in the project for a period of one year,
 they will be considered for removal from the Council. Before removal, inactive
-Member will be approached by the BDFL to see if they plan on returning to
+Member will be approached to see if they plan on returning to
 active participation. If not they will be removed immediately upon a Council
 vote. If they plan on returning to active participation soon, they will be
 given a grace period of one year. If they don’t return to active participation
@@ -192,7 +151,7 @@ interests include, but are not limited to:
 -   Access to proprietary information of their employer that could potentially
     leak into their work with the Project.
 
-All members of the Council, BDFL included, shall disclose to the rest of the
+All members of the Council, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
 issue, but must recuse themselves from voting on the issue. If the BDFL has
@@ -217,40 +176,11 @@ should conduct their business in an open and public manner unless privacy is
 specifically called for. Private subcommittee communications should happen on
 the main private mailing list of the Council unless specifically called for.
 
-Question: if the BDFL is not on a subcommittee, do they still have override
-authority?
-
-Suggestion: they do, but they should appoint a delegate who plays that role
-most of the time, and explicit BDFL intervention is sought only if the
-committee disagrees with that delegate’s decision and no resolution is possible
-within the team. This is different from a BDFL delegate for a specific decision
-(or a recusal situation), where the BDFL is literally giving up his/her
-authority to someone else in full. It’s more like what Linus Torvalds uses with his
-“lieutenants” model.
-
-### NumFOCUS Subcommittee
-
-The Council will maintain one narrowly focused subcommittee to manage its
-interactions with NumFOCUS.
-
--   The NumFOCUS Subcommittee is comprised of 5 persons who manage project
-    funding that comes through NumFOCUS. It is expected that these funds will
-    be spent in a manner that is consistent with the non-profit mission of
-    NumFOCUS and the direction of the Project as determined by the full
-    Council.
--   This Subcommittee shall NOT make decisions about the direction, scope or
-    technical direction of the Project.
--   This Subcommittee will have 5 members, 4 of whom will be current Council
-    Members and 1 of whom will be external to the Steering Council. No more
-    than 2 Subcommitee Members can report to one person through employment or
-    contracting work (including the reportee, i.e. the reportee + 1 is the
-    max). This avoids effective majorities resting on one person.
-
 
 Institutional Partners and Funding
 ==================================
 
-The BDFL and Steering Council are the primary leadership for the project. No
+The Steering Council are the primary leadership for the project. No
 outside institution, individual or legal entity has the ability to own,
 control, usurp or influence the project other than by participating in the
 Project as Contributors and Council Members. However, because institutions are
@@ -304,8 +234,8 @@ Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
 
--   Acknowledged on the Open Data Cube/IPython websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Open Data Cube/IPython
+-   Acknowledged on the Open Data Cube websites, in talks and T-shirts.
+-   Ability to acknowledge their own funding sources on the Open Data Cube
     websites, in talks and T-shirts.
 -   Unlimited participation in the annual Institutional Partners Workshop, held
     during the (planned) annual Open Data Cube Project Retreat. This allows the
@@ -314,13 +244,13 @@ Partners, with associated benefits:
     Contributors or Council Members.
 -   Ability to influence the project through the participation of their Council
     Member.
--   Council Members are invited to the bi-annual Open Data Cube/IPython Developer Meeting.
+-   Council Members are invited to the bi-annual Open Data Cube Developer Meeting.
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
 -   Same benefits as Tier 1 level Partners, but:
 -   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Open Data Cube/IPython Developer Meeting.
+    Workshop and bi-annual Open Data Cube Developer Meeting.
 
 
 Changing the Governance Documents
@@ -339,7 +269,4 @@ should state the final commit hash in the pull request being proposed
 for acceptance or rejection and briefly summarize the pull request. A
 minimum of 80% of the Steering Council must vote and at least 2/3 of
 the votes must be positive to carry out the proposed action (fractions
-of a vote rounded up to the nearest integer). Since the BDFL holds
-ultimate authority in The Project, the BDFL has authority to act alone
-in accepting or rejecting changes or overriding Steering Council
-decisions.
+of a vote rounded up to the nearest integer).
