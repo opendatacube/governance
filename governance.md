@@ -15,18 +15,15 @@ develop open source software and deploy open and public websites and services
 for reproducible, exploratory and interactive computing. The Software developed
 by The Project is released under the BSD (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
-[IPython GitHub organization](https://github.com/ipython) and the
+[ODC GitHub organization](https://github.com/opendatacube) and the
 [Open Data Cube GitHub organization](https://github.com/Open Data Cube). Examples of
-Project Software include the IPython Notebook, the IPython Terminal,
-IPython.parallel, the Open Data Cube Hub, etc. The Services run by the
+Project Software include the DataCube Core, the CEOS UI, and various other algorithms and addins, etc.
+The Services run by the
 Project consist of public websites and web-services that are hosted
-under the Open Data Cube.org or ipython.org domains. The Services Examples of
-Project Services include the Open Data Cube and IPython websites
+under the opendatacubeproject.org domain. The Services Examples of
+Project Services include the Open Data Cube and  websites
 ([http://Open Data Cube.org](http://Open Data Cube.org) and
-[http://ipython.org](http://ipython.org)), nbviewer
-([https://nbviewer.ipython.org](https://nbviewer.ipython.org)) and the
-Open Data Cube coLaboratory
-([https://colaboratory.Open Data Cube.org](https://colaboratory.Open Data Cube.org)).
+[http://ipython.org](http://ipython.org)), nbviewer.
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed code,
@@ -43,7 +40,7 @@ Here is a list of the current Contributors to the main IPython repository:
 [https://github.com/ipython/ipython/graphs/contributors](https://github.com/ipython/ipython/graphs/contributors)
 
 There are also many other Contributors listed in the logs of other repositories of
-the Open Data Cube and IPython projects.
+the Open Data Cube project.
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
@@ -205,7 +202,7 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using Open Data Cube/IPython Software or Services in an
+Members. Merely using Open Data Cube Software or Services in an
 institutional context does not allow an entity to become an
 Institutional Partner. Financial gifts do not enable an entity to
 become an Institutional Partner. Once an institution becomes eligible
@@ -222,11 +219,11 @@ raising money from private foundations and donors or a for-profit company
 building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Project BDFL and Steering Council. If a Partner has
-funding to do Open Data Cube/IPython work and the Council decides to not pursue that
+Partner can override The Steering Council. If a Partner has
+funding to do Open Data Cube work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
-Open Data Cube/IPython umbrella and cannot use the Project trademarks in a way that
+Open Data Cube umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
 To acknowledge institutional contributions, there are two level of Institutional

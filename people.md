@@ -54,7 +54,7 @@ Institutional Council members are noted with each institution.
 
 When a new member joins the steering council, the following things are done:
 - Announce the new member on the Open Data Cube mailing list
-- Make the new member an org owner for IPython and Open Data Cube Github organizations
+- Make the new member an org owner and Open Data Cube Github organizations
 - Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/Open Data Cube/governance/blob/master/people.md)
 - Add the new member to the list of steering council members on the website (https://github.com/Open Data Cube/Open Data Cube.github.io/blob/master/about.html)
 
