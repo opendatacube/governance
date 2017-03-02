@@ -132,13 +132,13 @@ membership again at any time in the future, like any other Project Contributor.
  Retired Council members will be listed on the project website, acknowledging
 the period during which they were active in the Council.
 
-The Council reserves the right to eject current Members, other than the BDFL,
+The Council reserves the right to eject current Members,
 if they are deemed to be actively harmful to the project’s well-being, and
 attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the BDFL and Council Members will be employed at a wide
+It is expected that the Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -151,9 +151,7 @@ interests include, but are not limited to:
 All members of the Council, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
-issue, but must recuse themselves from voting on the issue. If the BDFL has
-recused his/herself for a particular decision, they will appoint a substitute
-BDFL for that decision.
+issue, but must recuse themselves from voting on the issue.
 
 ### Private communications of the Council
 
