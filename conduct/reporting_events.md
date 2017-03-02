@@ -1,4 +1,4 @@
-# Project Open DataCube Code of Conduct - Reporting Guide - Open DataCube Events
+# Project Open Data Cube Code of Conduct - Reporting Guide - Open Data Cube Events
 
 You can make a personal report by:
 
@@ -14,7 +14,7 @@ properly. This can be uncomfortable, but we'll handle it respectfully and you
 can bring someone to support you.
 
 **Email**: Send a message to
-[*conduct@Open DataCube.org*](mailto:conduct@Open DataCube.org) and/or a local organizer’s
+[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) and/or a local organizer’s
 email (best to do both to ensure both prompt local response and that the
 regular committee is immediately in the loop).
 
@@ -24,7 +24,7 @@ otherwise respectfully assist you to feel safe for the duration of the event.
 
 Contact information for the following will be provided per event:
 
-* Email: [*conduct@Open DataCube.org*](mailto:conduct@Open DataCube.org), and/or a local
+* Email: [*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org), and/or a local
   organizer
 * Conference organizer mobile number
 * Venue security
@@ -34,7 +34,7 @@ Contact information for the following will be provided per event:
 * Taxi
 
 
-## At a Open DataCube Event:
+## At a Open Data Cube Event:
 * Participants asked to stop any harassing behavior are expected to comply
   immediately.
 * If a participant engages in harassing behavior, event organizers retain the
