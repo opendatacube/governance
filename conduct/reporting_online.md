@@ -1,8 +1,8 @@
-# Project Jupyter Code of Conduct - Reporting Guide - Online Community
+# Project Open Data Cube Code of Conduct - Reporting Guide - Online Community
 
 If you believe someone is violating the code of conduct we ask that you report
-it to Project Jupyter by emailing
-[*conduct@jupyter.org*](mailto:conduct@jupyter.org) or by completing [this
+it to Project Open Data Cube by emailing
+[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) or by completing [this
 form](https://goo.gl/forms/sJzOIie3zde9M71T2). All reports will be kept
 confidential. In some cases we may determine that a public statement will need
 to be made. If that's the case, the identities of all involved will remain
@@ -33,7 +33,7 @@ without your real name.
 
 ## What happens after you file a report?
 
-You will receive an email from the Project Jupyter Code of Conduct Committee
+You will receive an email from the Project Open Data Cube Code of Conduct Committee
 acknowledging receipt immediately. We promise to acknowledge receipt within 24
 hours (and will aim for much quicker than that).
 
@@ -56,9 +56,9 @@ communicate a resolution.
 
 ## Appealing the Code of Conduct Committee’s Response
 
-To appeal a decision of the Code of Conduct Committee, contact the Jupyter
+To appeal a decision of the Code of Conduct Committee, contact the Open Data Cube
 Steering Council at
-[*steeringcouncil@jupyter.org*](mailto:steeringcouncil@jupyter.org) with your
+[*steeringcouncil@Open Data Cube.org*](mailto:steeringcouncil@Open Data Cube.org) with your
 appeal and they will review the case.
 
 The Steering Council will gather all relevant information from the Committee
