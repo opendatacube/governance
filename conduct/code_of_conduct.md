@@ -1,6 +1,6 @@
-# Project Open Data Cube Code of Conduct
+# Project Open DataCube Code of Conduct
 
-Project Open Data Cube is an engaged and respectful community made up of people
+Project Open DataCube is an engaged and respectful community made up of people
 from all over the world. Your involvement helps us to further our
 mission and to create an open platform that serves a broad range of
 communities, from research and education, to journalism, industry and
@@ -31,22 +31,22 @@ work, there is urgency or risk to someone, nobody is intervening publicly and
 you don't feel comfortable speaking in public, etc.  For these or other
 reasons, structured follow-up may be necessary and here we provide the means
 for that: we welcome reports by emailing
-[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) or by filling out [this
+[*conduct@Open DataCube.org*](mailto:conduct@Open DataCube.org) or by filling out [this
 form](https://goo.gl/forms/sJzOIie3zde9M71T2). For more details please see our
 Reporting Guidelines (for [online](reporting_online.md) and
 [in-person](reporting_events.md) contexts).
 
 This code applies equally to founders, developers, mentors and new community
-members, in all spaces managed by Project Open Data Cube (including IPython). This
+members, in all spaces managed by Project Open DataCube (including IPython). This
 includes the mailing lists, our GitHub organizations, our chat rooms, in-person
 events, and any other forums created by the project team. In addition,
 violations of this code outside these spaces may affect a person's ability to
 participate within them.
 
 By embracing the following principles, guidelines and actions to follow or
-avoid, you will help us make Open Data Cube a welcoming and productive community. Feel
+avoid, you will help us make Open DataCube a welcoming and productive community. Feel
 free to contact the Code of Conduct Committee at
-[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) with any questions.
+[*conduct@Open DataCube.org*](mailto:conduct@Open DataCube.org) with any questions.
 
 
 1. **Be friendly and patient**.
@@ -91,7 +91,7 @@ free to contact the Code of Conduct Committee at
    expectations is preferable to demands for another person's time.
 
 7. **When we disagree, try to understand why**. Disagreements, both social and
-   technical, happen all the time and Open Data Cube is no exception.  Try to
+   technical, happen all the time and Open DataCube is no exception.  Try to
    understand where others are coming from, as seeing a question from their
    viewpoint may help find a new path forward.  And don’t forget that it is
    human to err: blaming each other doesn’t get us anywhere, while we can learn
@@ -109,7 +109,7 @@ a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
 You can file a report by emailing
-[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) or by filing out
+[*conduct@Open DataCube.org*](mailto:conduct@Open DataCube.org) or by filing out
 [this form](https://goo.gl/forms/sJzOIie3zde9M71T2). For more details or
 information on reporting in-person at an event, please see our Reporting
 Guidelines.
@@ -127,7 +127,7 @@ Manual*](enforcement.md).
 Original text courtesy of the [*Speak
 Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html)
 and [*Django*](https://www.djangoproject.com/conduct) Projects,
-modified by Project Open Data Cube.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
+modified by Project Open DataCube.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 
 All content on this page is licensed under a [*Creative Commons
 Attribution*](http://creativecommons.org/licenses/by/3.0/) license.

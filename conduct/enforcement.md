@@ -1,6 +1,6 @@
-# Open Data Cube Code of Conduct - Enforcement Manual
+# Open DataCube Code of Conduct - Enforcement Manual
 
-This is the enforcement manual followed by Open Data Cube's Code of Conduct
+This is the enforcement manual followed by Open DataCube's Code of Conduct
 Committee. It's used when we respond to an issue to make sure we're consistent
 and fair.
 
@@ -14,10 +14,10 @@ Conduct Committee ("the committee"), currently comprised of
 * ...
 * Person Five bar@email
 
-The Open Data Cube Steering Council will approve the members of this five person
+The Open DataCube Steering Council will approve the members of this five person
 committee. The members will be drawn from our entire community, and we intend
 that it *not* be only Steering Council members: anyone who is actively engaged
-with Open Data Cube can propose to join this committee (we'll explicitly solicit
+with Open DataCube can propose to join this committee (we'll explicitly solicit
 volunteers when short of five members).  One member will be designated chair of
 the group and will be responsible for all reports back to the Steering Council.
 
@@ -139,7 +139,7 @@ any of the tools available to the committee, including bans and blocks.
 If the incident involves physical danger, any member of the committee may -- and
 should -- act unilaterally to protect the safety of those involved. This can
 include contacting law enforcement (or other local personnel) and speaking on
-behalf of the Open Data Cube Steering Council.
+behalf of the Open DataCube Steering Council.
 
 In situations where an individual committee member acts unilaterally, they must
 report their actions to the committee for review within 24 hours.
@@ -185,7 +185,7 @@ Possible responses may include:
   temporarily refrain from community participation. If the individual chooses
   not to take a temporary break voluntarily, the committee may issue a
   "mandatory cooling off period".
-* A permanent or temporary ban from some or all Open Data Cube spaces (mailing lists,
+* A permanent or temporary ban from some or all Open DataCube spaces (mailing lists,
   gitter.im, etc.). The group will maintain records of all such bans so that
   they may be reviewed in the future or otherwise maintained.
 
@@ -195,12 +195,12 @@ proposed resolution. The committee will ask if this resolution is acceptable,
 and must note feedback for the record. However, the committee is not required to
 act on this feedback.
 
-Finally, the committee will make a report to the Open Data Cube Steering Council (as
-well as the Open Data Cube core team in the event of an ongoing resolution, such as a
+Finally, the committee will make a report to the Open DataCube Steering Council (as
+well as the Open DataCube core team in the event of an ongoing resolution, such as a
 ban).
 
 The committee will never publicly discuss the issue; all public statements will
-be made by the chair of the Code of Conduct Committee or the Open Data Cube Steering
+be made by the chair of the Code of Conduct Committee or the Open DataCube Steering
 Council.
 
 

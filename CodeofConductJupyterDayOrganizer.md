@@ -1,4 +1,4 @@
-# Open Data CubeDay Code of Conduct
+# Open DataCubeDay Code of Conduct
 ## Procedures and Enforcement Guidelines
 
 The goal of this document is to continually improve the community and create a
