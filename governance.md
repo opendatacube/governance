@@ -9,17 +9,17 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The Open DataCube Project (The Project) is an open source software project. The goal of The Project is to
+The Open Data Cube Project (The Project) is an open source software project. The goal of The Project is to
 develop open source software and deploy open and public websites and services
 for encouraging the uptake and usage of Earth Observation data for the greater public good. The Software developed
 by The Project is released under the Apache 2 (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
-[ODC GitHub organization](https://github.com/opendatacube). Examples of
-Project Software include the DataCube Core, the CEOS UI, and various other algorithms and addins, etc.
+[Open Data Cube GitHub organization](https://github.com/opendatacube). Examples of
+Project Software include the Data Cube Core, the CEOS UI, other algorithms, and user interfaces, etc.
 The Services run by the
 Project consist of public websites and web-services that are hosted
-under the opendatacubeproject.org domain. The Services Examples of
-Project Services include the Open DataCube and  websites
+under the opendatacube.org domain. Examples of
+Project Services include the Open Data Cube and  websites
 ([http://opendatacube.org](http://opendatacube.org).
 
 The Project is developed by a team of distributed developers, called
@@ -34,7 +34,7 @@ and transparency.
 
 
 There are also many other Contributors listed in the logs of other repositories of
-the Open DataCube project.
+the Open Data Cube project.
 
 The Project Community consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
@@ -187,7 +187,7 @@ of their official duties. To state this another way, the only way for
 an Institutional Partner to influence the project is by actively
 contributing to the open development of the project, on equal terms
 with any other member of the community of Contributors and Council
-Members. Merely using Open DataCube Software or Services in an
+Members. Merely using Open Data Cube Software or Services in an
 institutional context does not allow an entity to become an
 Institutional Partner. Financial gifts do not enable an entity to
 become an Institutional Partner. Once an institution becomes eligible
@@ -205,10 +205,10 @@ building proprietary products and services that leverage Project Software and
 Services. Funding acquired by Institutional Partners to work on The Project is
 called Institutional Funding. However, no funding obtained by an Institutional
 Partner can override The Steering Council. If a Partner has
-funding to do Open DataCube work and the Council decides to not pursue that
+funding to do Open Data Cube work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
 this situation, that part of the Partner’s work will not be under the
-Open DataCube umbrella and cannot use the Project trademarks in a way that
+Open Data Cube umbrella and cannot use the Project trademarks in a way that
 suggests a formal relationship.
 
 To acknowledge institutional contributions, there are two level of Institutional
@@ -216,23 +216,23 @@ Partners, with associated benefits:
 
 **Tier 1** = an institution with at least one Institutional Council Member
 
--   Acknowledged on the Open DataCube websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Open DataCube
+-   Acknowledged on the Open Data Cube websites, in talks and T-shirts.
+-   Ability to acknowledge their own funding sources on the Open Data Cube
     websites, in talks and T-shirts.
 -   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Open DataCube Project Retreat. This allows the
+    during the (planned) annual Open Data Cube Project Retreat. This allows the
     Institutional Partner to invite as many of their own employees and funding
     sources and collaborators as they want, even if they are not project
     Contributors or Council Members.
 -   Ability to influence the project through the participation of their Council
     Member.
--   Council Members are invited to the bi-annual Open DataCube Developer Meeting.
+-   Council Members are invited to the bi-annual Open Data Cube Developer Meeting.
 
 **Tier 2** = an institution with at least one Institutional Contributor
 
 -   Same benefits as Tier 1 level Partners, but:
 -   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Open DataCube Developer Meeting.
+    Workshop and bi-annual Open Data Cube Developer Meeting.
 
 
 Changing the Governance Documents
