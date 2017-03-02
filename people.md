@@ -2,35 +2,21 @@
 
 Names are followed by GitHub usernames.
 
-## Benevolent Dictator for Life
+## Benevolent Dictator for Now
 
-Fernando Perez (@fperez) is the Benevolent Dictator for Life (BDFL).
+This position will be a rotating position, with a process for election still
+to be decided. Expected term will be 1 year.
 
 ## Steering Council
 
-- Brian Granger, @ellisonbg
-- Damian Avila, @damianavila
-- Fernando Perez, @fperez
-- Jason Grout, @jasongrout
-- Jessica Hamrick, @jhamrick
-- Jonathan Frederic, @jdfreder
-- Kyle Kelley, @rgbkrk
-- Matthias Bussonnier, @carreau
-- Min Ragan-Kelley, @minrk
-- Sylvain Corlay, @sylvaincorlay
-- Thomas Kluyver, @takluyver
-- Peter Parente, @parente
-- Carol Willing, @willingc
-- Steven Silvester, @blink1073
-- Paul Ivanov, @ivanov
-
-### NumFOCUS Subcommittee
-
-- Brian Granger, @ellisonbg
-- Fernando Perez, @fperez
-- Matthias Bussonnier, @carreau
-- Stefan van der Walt (non-council member), @stefanv
-- Thomas Kluyver, @takluyver
+- Trevor Dhu, @tdhu
+- Simon Oliver, @simonaoliver
+- Rob Woodcock, @woodcockr
+- Brian Killough,
+- Damien Ayers, @omad
+- Sanjay Gowda, @sgowda1
+- Andrew Cherry, @AMA-AC
+- etc
 
 ## Institutional Partners
 
@@ -38,24 +24,17 @@ Fernando Perez (@fperez) is the Benevolent Dictator for Life (BDFL).
 
 Institutional Council members are noted with each institution.
 
-- [Bloomberg](http://www.bloomberg.com/) (Jason Grout, Paul Ivanov)
-- [Cal Poly](http://www.calpoly.edu/) (Brian Granger, Carol Willing)
-- [Continuum Analytics](http://continuum.io/) (Damian Avila, Steven Silvester)
-- [UC Berkeley](http://www.berkeley.edu/) (Fernando Perez)
-- [Netflix](http://www.netflix.com/) (Kyle Kelley)
-- [MaxPoint](http://maxpoint.com/) (Peter Parente)
-- [QuantStack](http://quantstack.net/) (Sylvain Corlay)
+- [Geoscience Australia](http://www.ga.gov.au/) (Trevor Dhu, Simon Oliver, Damien Ayers, ...)
+- [CSIRO](https://www.csiro.au/) (Rob Woodcock, Matt Paget, ...)
+- [NASA](https://www.nasa.gov/) (Brian Killough, ...)
+- [AMA](http://www.ama-inc.com) (Andrew Cherry, Sanjay Gowda, ...)
+- IDEAM
 
-### Tier 2
-
-- [Google](https://www.google.com/)
 
 ## New Steering Council Members
 
 When a new member joins the steering council, the following things are done:
 - Announce the new member on the Open Data Cube mailing list
 - Make the new member an org owner and Open Data Cube Github organizations
-- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/Open Data Cube/governance/blob/master/people.md)
-- Add the new member to the list of steering council members on the website (https://github.com/Open Data Cube/Open Data Cube.github.io/blob/master/about.html)
-
-
+- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/opendatacube/governance/blob/master/people.md)
+- Add the new member to the list of steering council members on the website (https://github.com/opendatacube/opendatacube.github.io/blob/master/about.html)
