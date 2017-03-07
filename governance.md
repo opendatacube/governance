@@ -164,7 +164,7 @@ The Open Data Cube project, as the name suggests, adopts licenses that reflect
 our open approach. This applies both to the code in this repository but, ideally,
 also to data used within Open Data Cube deployments.
 Code within the Open Data Cube movement will be available via the
-[Apache license version 2](https://www.apache.org/licenses/LICENSE-2.0).
+[Apache License Version 2](https://www.apache.org/licenses/LICENSE-2.0).
 Ideally, data used in Open Data Cube deployments should use Creative Commons
 Attribution 4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
