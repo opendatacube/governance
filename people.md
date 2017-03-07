@@ -2,11 +2,6 @@
 
 Names are followed by GitHub usernames.
 
-## Benevolent Dictator for Now
-
-This position will be a rotating position, with a process for election still
-to be decided. Expected term will be 1 year.
-
 ## Steering Council
 
 - Trevor Dhu, @tdhu
@@ -27,8 +22,8 @@ Institutional Council members are noted with each institution.
 - [Geoscience Australia](http://www.ga.gov.au/) (Trevor Dhu, Simon Oliver, Damien Ayers, ...)
 - [CSIRO](https://www.csiro.au/) (Rob Woodcock, Matt Paget, ...)
 - [NASA](https://www.nasa.gov/) (Brian Killough, ...)
-- [AMA](http://www.ama-inc.com) (Andrew Cherry, Sanjay Gowda, ...)
-- IDEAM
+- [AMA](http://www.ama-inc.com/) (Andrew Cherry, Sanjay Gowda, ...)
+- [IDEAM](http://www.ideam.gov.co/)
 
 
 ## New Steering Council Members
