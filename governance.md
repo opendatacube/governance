@@ -163,10 +163,11 @@ the main private mailing list of the Council unless specifically called for.
 The Open Data Cube project, as the name suggests, adopts licenses that reflect
 our open approach. This applies both to the code in this repository but, ideally,
 also to data used within Open Data Cube deployments.
-Code within the Open Data Cube movement will be available via the
+
+Code within the Open Data Cube repository will be available via the
 [Apache License Version 2](https://www.apache.org/licenses/LICENSE-2.0).
-Ideally, data used in Open Data Cube deployments should use Creative Commons
-Attribution 4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Open  Data Cube deployments should clearly identify the useage conditions under which data can be used. The recommended open data licence is the Creative Commons Attribution 4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Licenses for commercial data will be vary.
 
 Institutional Partners and Funding
 ==================================
