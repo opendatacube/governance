@@ -9,21 +9,20 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The Open Data Cube Project (The Project) is an open source software project. The goal of The Project is to
+The **Open Data Cube** (The Project) is an open source software project. The goal of The Project is to
 develop open source software and deploy open and public websites and services
 for encouraging the uptake and usage of Earth Observation data for the greater public good. The Software developed
-by The Project is released under the Apache 2 (or similar) open source license,
+by The Project is released under the **Apache 2** (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
 [Open Data Cube GitHub organization](https://github.com/opendatacube). Examples of
 Project Software include the Data Cube Core, the CEOS UI, other algorithms, and user interfaces, etc.
-The Services run by the
-Project consist of public websites and web-services that are hosted
-under the opendatacube.org domain. Examples of
-Project Services include the Open Data Cube and  websites
-([http://opendatacube.org](http://opendatacube.org).
+The Services run by the Project consist of public websites and web-services that are hosted
+under the opendatacube.org domain. An example of
+a Project Service includes the Open Data Cube website
+([http://opendatacube.org](http://opendatacube.org)).
 
 The Project is developed by a team of distributed developers, called
-Contributors. Contributors are individuals who have contributed code,
+**Contributors**. Contributors are individuals who have contributed code,
 documentation, designs or other work to one or more Project repositories.
 Anyone can be a Contributor. Contributors can be affiliated with any legal
 entity or none. Contributors participate in the project by submitting,
@@ -36,7 +35,7 @@ and transparency.
 There are also many other Contributors listed in the logs of other repositories of
 the Open Data Cube project.
 
-The Project Community consists of all Contributors and Users of the Project.
+The **Project Community** consists of all Contributors and Users of the Project.
 Contributors work on behalf of and are responsible to the larger Project
 Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
@@ -55,13 +54,13 @@ The foundations of Project governance are:
 Steering Council
 ----------------
 
-The Project will have a Steering Council that consists of Project Contributors
+The Project will have a **Steering Council** that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through taking input from the Community, the
-long-term well-being of the project, both technically and as a community.
+ensure, through taking input from the Community, the long-term well-being of
+the project, both technically and as a community.
 
-During the everyday project activities, council members participate in all
+During the everyday project activities, **Council Members** participate in all
 discussions, code review and other project activities as peers with all other
 Contributors and the Community. In these everyday activities, Council Members
 do not have any special power or privilege through their membership on the
@@ -93,7 +92,7 @@ quality and quantity, and sustained over at least one year. Potential Council
 Members are nominated by existing Council members and voted upon by the
 existing Council after asking if the potential Member is interested and willing
 to serve in that capacity. The Council will be initially formed from the set of
-existing Core Developers who, as of late 2014, have been significantly active
+existing Core Developers who, as of early 2017, have been significantly active
 over the last year.
 
 When considering potential Members, the Council will look at candidates with a
@@ -167,7 +166,10 @@ also to data used within Open Data Cube deployments.
 Code within the Open Data Cube repository will be available via the
 [Apache License Version 2](https://www.apache.org/licenses/LICENSE-2.0).
 
-Open  Data Cube deployments should clearly identify the useage conditions under which data can be used. The recommended open data licence is the Creative Commons Attribution 4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Licenses for commercial data will be vary.
+Open  Data Cube deployments should clearly identify the useage conditions under which 
+data can be used. The recommended open data licence is the Creative Commons Attribution 
+4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+Licenses for commercial data will be vary.
 
 Institutional Partners and Funding
 ==================================
@@ -180,13 +182,13 @@ the primary funding mechanism for the project, it is important to formally
 acknowledge institutional participation in the project. These are Institutional
 Partners.
 
-An Institutional Contributor is any individual Project Contributor who
+An **Institutional Contributor** is any individual Project Contributor who
 contributes to the project as part of their official duties at an Institutional
-Partner. Likewise, an Institutional Council Member is any Project Steering
+Partner. Likewise, an **Institutional Council Member** is any Project Steering
 Council Member who contributes to the project as part of their official duties
 at an Institutional Partner.
 
-With these definitions, an Institutional Partner is any recognized legal entity
+With these definitions, an **Institutional Partner** is any recognized legal entity
 in the United States or elsewhere that employs at least one Institutional
 Contributor or Institutional Council Member. Institutional Partners can be
 for-profit or non-profit entities.
