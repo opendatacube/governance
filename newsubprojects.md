@@ -16,12 +16,11 @@ Open Data Cube organization. These apply to any Subproject, regardless of who is
 Subproject. Subprojects should:
 
 * Have an active developer community that offers a sustainable model for future development.
-* Have an active user community.
 * Use solid software engineering with documentation and tests hosted with appropriate
   technologies ([Read The Docs](https://readthedocs.org/) and [Travis](https://travis-ci.org/)
   are examples of technologies that can be used).
 * Demonstrate continued growth and development.
-* Integrate well with other official Subprojects.
+* Integrate well with other official Subprojects where appropriate.
 * Be developed according to the Open Data Cube [governance and contribution model](https://github.com/opendatacube/governance).
 * Have a well-defined scope.
 * Be packaged using appropriate technologies such as pip, conda, npm, bower, docker, etc.
@@ -89,7 +88,6 @@ The possible recommendations of the Steering Council will be:
   progressing or will never be appropriate for incorporation. If a rejected Subproject has been
   incubating under the [opendatacube-incubator](https://github.com/opendatacube-incubator) GitHub
   organization, its repository will be removed from that organization after a transition period.
-
 
 ### Incorporation
 
