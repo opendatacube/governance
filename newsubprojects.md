@@ -89,8 +89,6 @@ The possible recommendations of the Steering Council will be:
   incubating under the [opendatacube-incubator](https://github.com/opendatacube-incubator) GitHub
   organization, its repository will be removed from that organization after a transition period.
 
-External projects may still be linked to in the [Related Projects](RelatedProjects.md) document.
-
 ### Incorporation
 
 When an existing external Subproject is incorporated as a new official Subproject, the following
