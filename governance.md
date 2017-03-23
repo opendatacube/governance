@@ -9,9 +9,7 @@ section below, is contained in The Project Governance Repository at:
 The Project
 ===========
 
-The **Open Data Cube** (The Project) is an open source software project. The goal of The Project is to
-develop open source software and deploy open and public websites and services
-for encouraging the uptake and usage of Earth Observation data for the greater public good. The Software developed
+The **Open Data Cube** (The Project) is an open source software project. The goal of The Project is to develop open source software and deploy open and public websites and services that provide a new approach for organising and analysing the vast quantities of satellite imagery and other Earth observation data, making it quicker and easier to use in diverse fields ranging across environment, water quality, hazards and agriculture. The Software developed
 by The Project is released under the **Apache 2** (or similar) open source license,
 developed openly and hosted in public GitHub repositories under the
 [Open Data Cube GitHub organization](https://github.com/opendatacube). Examples of
@@ -27,9 +25,7 @@ documentation, designs or other work to one or more Project repositories.
 Anyone can be a Contributor. Contributors can be affiliated with any legal
 entity or none. Contributors participate in the project by submitting,
 reviewing and discussing GitHub Pull Requests and Issues and participating in
-open and public Project discussions on GitHub, Google+, Hackpad, Gitter chat
-rooms and mailing lists. The foundation of Project participation is openness
-and transparency.
+open and public Project discussions on GitHub, Slack, Google Groups, and mailing lists. The foundation of Project participation is openness and transparency.
 
 
 There are also many other Contributors listed in the logs of other repositories of
@@ -51,13 +47,22 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
+The Project leadership will consist of the role of a Benevolant Dictator selected from the Steering Council for a fixed term of 6 months and a Steering Council.
+
+Benevolant Dictator
+-------------------
+
+The Project will have a BD (Benevolent Dictator). As Dictator, the BD has the authority to make all final decisions for The Project. As Benevolent, the BD, in practice chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the BD will only rarely assert his/her final authority. Because rarely used, we refer to BD’s final authority as a “special” or “overriding” vote. When it does occur, the BD override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the BD to make a decision on a specific matter. To ensure the benevolence of the BD, The Project encourages others to fork the project if they disagree with the overall direction the BD is taking. The BD is chair of the Steering Council (see below) and may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
+
+The BD will be selected from amongst the Steering Council membership and reside in that role for a period up to 6 months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
+
 Steering Council
 ----------------
 
 The Project will have a **Steering Council** that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through taking input from the Community, the long-term well-being of
+ensure, through working with the BD taking input from the Community, the long-term well-being of
 the project, both technically and as a community.
 
 During the everyday project activities, **Council Members** participate in all
@@ -107,8 +112,8 @@ not define code as the sole metric on which council membership will be
 evaluated.
 
 If a Council member becomes inactive in the project for a period of one year,
-they will be considered for removal from the Council. Before removal, inactive
-Member will be approached to see if they plan on returning to
+they will be considered for removal from the Council. Before removal, the inactive
+Member will be approached by the BD to see if they plan on returning to
 active participation. If not they will be removed immediately upon a Council
 vote. If they plan on returning to active participation soon, they will be
 given a grace period of one year. If they don’t return to active participation
@@ -124,7 +129,7 @@ attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the Council Members will be employed at a wide
+It is expected that the BD and Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -134,10 +139,10 @@ interests include, but are not limited to:
 -   Access to proprietary information of their employer that could potentially
     leak into their work with the Project.
 
-All members of the Council, shall disclose to the rest of the
+All members of the Council, BD included, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
-issue, but must recuse themselves from voting on the issue.
+issue, but must recuse themselves from voting on the issue.If the BD has recused his/herself for a particular decision, they will appoint a substitute BD for that decision.
 
 ### Private communications of the Council
 
@@ -189,7 +194,7 @@ Council Member who contributes to the project as part of their official duties
 at an Institutional Partner.
 
 With these definitions, an **Institutional Partner** is any recognized legal entity
-in the United States or elsewhere that employs at least one Institutional
+in Australia or elsewhere that employs at least one Institutional
 Contributor or Institutional Council Member. Institutional Partners can be
 for-profit or non-profit entities.
 
