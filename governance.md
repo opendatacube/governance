@@ -52,7 +52,7 @@ The Project leadership will consist of the role of a Benevolant Dictator selecte
 Chair of Steering Council
 -------------------------
 
-The Project will have a Chair of the Steering Council. The Chair has the authority to make all final decisions for The Project. In practice the Chair chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the Chair will only rarely assert his/her final authority. Because rarely used, we refer to the Chair’s final authority as a “special” or “overriding” vote. When it does occur, the Chair override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the Chair to make a decision on a specific matter. To ensure the benevolence of the Chair, The Project encourages others to fork the project if they disagree with the overall direction the Chair is taking. The Chair and may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
+The Project will have a Chair of the Steering Council. The Chair has the authority to make all final decisions for The Project. In practice the Chair chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the Chair will only rarely assert his/her final authority. Because rarely used, we refer to the Chair’s final authority as a “special” or “overriding” vote. When it does occur, the Chair override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the Chair to make a decision on a specific matter. To ensure the integrity of The Project, The Project encourages others to fork the project if they disagree with the overall direction the Steering Council. The Chair may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
 
 The Chair will be selected from amongst the Steering Council membership and reside in that role for a period up to 6 months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
 
@@ -113,7 +113,7 @@ evaluated.
 
 If a Council member becomes inactive in the project for a period of one year,
 they will be considered for removal from the Council. Before removal, the inactive
-Member will be approached by the BD to see if they plan on returning to
+Member will be approached by the Chair to see if they plan on returning to
 active participation. If not they will be removed immediately upon a Council
 vote. If they plan on returning to active participation soon, they will be
 given a grace period of one year. If they don’t return to active participation
@@ -129,7 +129,7 @@ attempts at communication and conflict resolution have failed.
 
 ### Conflict of interest
 
-It is expected that the BD and Council Members will be employed at a wide
+It is expected that the Chair and Council Members will be employed at a wide
 range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
@@ -139,10 +139,10 @@ interests include, but are not limited to:
 -   Access to proprietary information of their employer that could potentially
     leak into their work with the Project.
 
-All members of the Council, BD included, shall disclose to the rest of the
+All members of the Council, Chair included, shall disclose to the rest of the
 Council any conflict of interest they may have. Members with a conflict of
 interest in a particular issue may participate in Council discussions on that
-issue, but must recuse themselves from voting on the issue.If the BD has recused his/herself for a particular decision, they will appoint a substitute BD for that decision.
+issue, but must recuse themselves from voting on the issue. If the Chair has recused his/herself for a particular decision, they will appoint a substitute Chair for that decision.
 
 ### Private communications of the Council
 
