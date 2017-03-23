@@ -49,12 +49,12 @@ The foundations of Project governance are:
 
 The Project leadership will consist of the role of a Benevolant Dictator selected from the Steering Council for a fixed term of 6 months and a Steering Council.
 
-Benevolant Dictator
--------------------
+Chair of Steering Council
+-------------------------
 
-The Project will have a BD (Benevolent Dictator). As Dictator, the BD has the authority to make all final decisions for The Project. As Benevolent, the BD, in practice chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the BD will only rarely assert his/her final authority. Because rarely used, we refer to BD’s final authority as a “special” or “overriding” vote. When it does occur, the BD override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the BD to make a decision on a specific matter. To ensure the benevolence of the BD, The Project encourages others to fork the project if they disagree with the overall direction the BD is taking. The BD is chair of the Steering Council (see below) and may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
+The Project will have a Chair of the Steering Council. The Chair has the authority to make all final decisions for The Project. In practice the Chair chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the Chair will only rarely assert his/her final authority. Because rarely used, we refer to the Chair’s final authority as a “special” or “overriding” vote. When it does occur, the Chair override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the Chair to make a decision on a specific matter. To ensure the benevolence of the Chair, The Project encourages others to fork the project if they disagree with the overall direction the Chair is taking. The Chair and may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
 
-The BD will be selected from amongst the Steering Council membership and reside in that role for a period up to 6 months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
+The Chair will be selected from amongst the Steering Council membership and reside in that role for a period up to 6 months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
 
 Steering Council
 ----------------
