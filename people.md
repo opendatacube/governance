@@ -23,10 +23,11 @@ Institutional Council members are noted with each institution.
 - [NASA](https://www.nasa.gov/)
 - [AMA](http://www.ama-inc.com/)
 - [IDEAM](http://www.ideam.gov.co/)
+- [USGS-EROS](https://eros.usgs.gov/)
 
 
 ## New Steering Council Members
-The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership) 
+The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership)
 
 The following tasks need to be completed when a new member joins the steering council:
 - Announce the new member on the Open Data Cube mailing list
