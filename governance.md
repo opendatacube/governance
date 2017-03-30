@@ -47,7 +47,10 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-The Project leadership will consist of the role of a Benevolant Dictator selected from the Steering Council for a fixed term of 6 months and a Steering Council.
+
+
+The Project leadership will consist a Steering Council, made up of a group of ongoing
+active contributors.
 
 Chair of Steering Council
 -------------------------
@@ -62,8 +65,7 @@ Steering Council
 The Project will have a **Steering Council** that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
 and sustained over at least one year. The overall role of the Council is to
-ensure, through working with the BD taking input from the Community, the long-term well-being of
-the project, both technically and as a community.
+ensure the long-term well-being of the project, both technically and as a community.
 
 During the everyday project activities, **Council Members** participate in all
 discussions, code review and other project activities as peers with all other
@@ -171,9 +173,9 @@ also to data used within Open Data Cube deployments.
 Code within the Open Data Cube repository will be available via the
 [Apache License Version 2](https://www.apache.org/licenses/LICENSE-2.0).
 
-Open  Data Cube deployments should clearly identify the useage conditions under which 
-data can be used. The recommended open data licence is the Creative Commons Attribution 
-4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+Open  Data Cube deployments should clearly identify the useage conditions under which
+data can be used. The recommended open data licence is the Creative Commons Attribution
+4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Licenses for commercial data will be vary.
 
 Institutional Partners and Funding
