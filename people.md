@@ -2,7 +2,7 @@
 
 Names are followed by GitHub usernames.
 
-## Steering Council
+## Provisional Steering Council
 
 - Trevor Dhu, @tdhu
 - Simon Oliver, @simonaoliver
