@@ -10,7 +10,7 @@ The Project
 ===========
 
 The **Open Data Cube** (The Project) is an open source software project. The goal of The Project is to develop open source software and deploy open and public websites and services that provide a new approach for organising and analysing the vast quantities of satellite imagery and other Earth observation data, making it quicker and easier to use in diverse fields ranging across environment, water quality, hazards and agriculture. The Software developed
-by The Project is released under the **Apache 2** (or similar) open source license,
+by The Project is released under the **Apache 2** (or similar) open source license, and is
 developed openly and hosted in public GitHub repositories under the
 [Open Data Cube GitHub organization](https://github.com/opendatacube). Examples of
 Project Software include the Data Cube Core, the CEOS UI, other algorithms, and user interfaces, etc.
@@ -168,7 +168,8 @@ the main private mailing list of the Council unless specifically called for.
 
 The Open Data Cube project, as the name suggests, adopts licenses that reflect
 our open approach. This applies both to the code in this repository but, ideally,
-also to data used within Open Data Cube deployments.
+also to data used within Open Data Cube deployments. Copyright may be considered implicit
+rather than explict in either license or code to reduce legal barriers to co-development.
 
 Code within the Open Data Cube repository will be available via the
 [Apache License Version 2](https://www.apache.org/licenses/LICENSE-2.0).
