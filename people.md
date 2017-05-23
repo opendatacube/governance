@@ -21,12 +21,11 @@ Names are followed by GitHub usernames.
 Institutional Council members are noted with each institution.
 
 - [Geoscience Australia](http://www.ga.gov.au/)
-- [USGS](https://www.usgs.gov/)
 - [CSIRO](https://www.csiro.au/)
 - [NASA](https://www.nasa.gov/)
 - [AMA](http://www.ama-inc.com/)
 - [IDEAM](http://www.ideam.gov.co/)
-
+- [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
 The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership) 
