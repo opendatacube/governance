@@ -8,6 +8,8 @@ Names are followed by GitHub usernames.
 - Simon Oliver, @simonaoliver
 - Rob Woodcock, @woodcockr
 - Brian Killough,
+- Brian Sauer,
+- John Morton, @jmorton
 - Damien Ayers, @omad
 - Sanjay Gowda, @sgowda1
 - Andrew Cherry, @AMA-AC
@@ -19,6 +21,7 @@ Names are followed by GitHub usernames.
 Institutional Council members are noted with each institution.
 
 - [Geoscience Australia](http://www.ga.gov.au/)
+- [USGS](https://www.usgs.gov/)
 - [CSIRO](https://www.csiro.au/)
 - [NASA](https://www.nasa.gov/)
 - [AMA](http://www.ama-inc.com/)
