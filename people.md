@@ -8,6 +8,8 @@ Names are followed by GitHub usernames.
 - Simon Oliver, @simonaoliver
 - Rob Woodcock, @woodcockr
 - Brian Killough,
+- Brian Sauer,
+- John Morton, @jmorton
 - Damien Ayers, @omad
 - Sanjay Gowda, @sgowda1
 - Andrew Cherry, @AMA-AC
@@ -23,7 +25,7 @@ Institutional Council members are noted with each institution.
 - [NASA](https://www.nasa.gov/)
 - [AMA](http://www.ama-inc.com/)
 - [IDEAM](http://www.ideam.gov.co/)
-
+- [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
 The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership) 
