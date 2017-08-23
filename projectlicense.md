@@ -39,5 +39,4 @@ change to one of the Open Data Cube repositories.
 With this in mind, the following banner should be used in any source code file
 to indicate the copyright and license terms:
 
-    # Copyright (c) Open Data Cube Development Team.
     # Distributed under the terms of the Apache License, Version 2.0.
