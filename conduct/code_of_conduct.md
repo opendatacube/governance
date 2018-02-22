@@ -109,7 +109,7 @@ a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
 You can file a report by emailing
-[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) or by filing out
+[*conduct@Open Data Cube.org*](mailto://conduct@Open Data Cube.org) or by filing out
 [this form](https://goo.gl/forms/sJzOIie3zde9M71T2). For more details or
 information on reporting in-person at an event, please see our Reporting
 Guidelines.
