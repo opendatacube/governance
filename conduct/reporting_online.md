@@ -2,7 +2,7 @@
 
 If you believe someone is violating the code of conduct we ask that you report
 it to Project Open Data Cube by emailing
-[*conduct@Open Data Cube.org*](mailto:conduct@Open Data Cube.org) or by completing [this
+[*conduct@OpenDataCube.org*](mailto://conduct@OpenDataCube.org) or by completing [this
 form](https://goo.gl/forms/sJzOIie3zde9M71T2). All reports will be kept
 confidential. In some cases we may determine that a public statement will need
 to be made. If that's the case, the identities of all involved will remain
@@ -58,7 +58,7 @@ communicate a resolution.
 
 To appeal a decision of the Code of Conduct Committee, contact the Open Data Cube
 Steering Council at
-[*steeringcouncil@Open Data Cube.org*](mailto:steeringcouncil@Open Data Cube.org) with your
+[*steeringcouncil@OpenDataCube.org*](mailto://steeringcouncil@OpenDataCube.org) with your
 appeal and they will review the case.
 
 The Steering Council will gather all relevant information from the Committee

@@ -33,5 +33,4 @@ The process for becoming a Steering Council Member is documented in the [Governa
 The following tasks need to be completed when a new member joins the steering council:
 - Announce the new member on the Open Data Cube mailing list
 - Make the new member an org owner and Open Data Cube Github organizations
-- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the institutional partner list (https://github.com/opendatacube/governance/blob/master/people.md)
-- Add the new member to the list of steering council members on the website (https://github.com/opendatacube/opendatacube.github.io/blob/master/about.html)
+- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](https://github.com/opendatacube/governance/blob/master/people.md)
