@@ -2,15 +2,18 @@
 
 Names are followed by GitHub usernames.
 
-## Provisional Steering Council
+## Steering Council 2018
 
-- Trevor Dhu, @tdhu
-- Simon Oliver, @simonaoliver
-- Rob Woodcock, @woodcockr
-- Brian Killough,
-- Brian Sauer,
-- John Morton, @jmorton
-- Damien Ayers, @omad
+- Damien Ayers, @omad (Chair from May-Oct 2018)
+- Alex Leith, @alexgleith (Secretariat member) 
+- Federica Moscato
+- Matt Paget, @mpaget
+- Peter Wang, @petewa
+- David Gavin, @GypsyBojangles
+- Randall Sunne
+- Tony Butzer
+- Belle Tissott, @bellemae
+- Otto Wagner, @caffeine-potent
 - Sanjay Gowda, @sgowda1
 - Andrew Cherry, @AMA-AC
 
@@ -28,9 +31,9 @@ Institutional Council members are noted with each institution.
 - [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
-The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership) 
+The process for becoming a Steering Council Member is documented in the [Governance document](governance.md#council-membership)
 
 The following tasks need to be completed when a new member joins the steering council:
 - Announce the new member on the Open Data Cube mailing list
 - Make the new member an org owner and Open Data Cube Github organizations
-- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](https://github.com/opendatacube/governance/blob/master/people.md)
+- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](people.md)
