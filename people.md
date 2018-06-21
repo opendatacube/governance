@@ -4,18 +4,18 @@ Names are followed by GitHub usernames.
 
 ## Steering Council 2018
 
-- Damien Ayers, @omad (Chair from May-Oct 2018)
-- Alex Leith, @alexgleith (Secretariat member) 
-- Federica Moscato
-- Matt Paget, @mpaget
-- Peter Wang, @petewa
-- David Gavin, @GypsyBojangles
-- Randall Sunne
-- Tony Butzer
-- Belle Tissott, @bellemae
-- Otto Wagner, @caffeine-potent
-- Sanjay Gowda, @sgowda1
-- Andrew Cherry, @AMA-AC
+- Damien Ayers, @omad (Chair from May-Oct 2018) ([Geoscience Australia](http://www.ga.gov.au/))
+- Alex Leith, @alexgleith (Secretariat member) (CRC-SI)
+- Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
+- Matt Paget, @mpaget ([CSIRO](https://www.csiro.au/))
+- Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
+- David Gavin, @GypsyBojangles ([Geoscience Australia](http://www.ga.gov.au/))
+- Randall Sunne ([USGS](https://www.usgs.gov/))
+- Tony Butzer ([USGS](https://www.usgs.gov/))
+- Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
+- Otto Wagner, @caffeine-potent ([AMA](http://www.ama-inc.com/))
+- Sanjay Gowda, @sgowda1 ([AMA](http://www.ama-inc.com/))
+- Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
 
 ## Institutional Partners
 
