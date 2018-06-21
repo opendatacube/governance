@@ -5,7 +5,7 @@ Names are followed by GitHub usernames.
 ## Steering Council 2018
 
 - Damien Ayers, @omad (Chair from May-Oct 2018) ([Geoscience Australia](http://www.ga.gov.au/))
-- Alex Leith, @alexgleith (Secretariat member) (CRC-SI)
+- Alex Leith, @alexgleith (Secretariat member) (CRCSI)
 - Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
 - Matt Paget, @mpaget ([CSIRO](https://www.csiro.au/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
