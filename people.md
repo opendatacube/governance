@@ -2,17 +2,19 @@
 
 Names are followed by GitHub usernames.
 
-## Provisional Steering Council
+## Steering Council 2018
 
-- Trevor Dhu, @tdhu
-- Simon Oliver, @simonaoliver
-- Rob Woodcock, @woodcockr
-- Brian Killough,
-- Brian Sauer,
-- John Morton, @jmorton
-- Damien Ayers, @omad
-- Sanjay Gowda, @sgowda1
-- Andrew Cherry, @AMA-AC
+- Damien Ayers, @omad (Chair from May-Oct 2018) ([Geoscience Australia](http://www.ga.gov.au/))
+- Alex Leith, @alexgleith (Secretariat member) (CRCSI)
+- Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
+- Matt Paget, @mpaget ([CSIRO](https://www.csiro.au/))
+- Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
+- David Gavin, @GypsyBojangles ([Geoscience Australia](http://www.ga.gov.au/))
+- Randall Sunne ([USGS](https://www.usgs.gov/))
+- Tony Butzer ([USGS](https://www.usgs.gov/))
+- Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
+- Syed Rizvi, ([AMA](http://www.ama-inc.com/))
+- Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
 
 ## Institutional Partners
 
@@ -28,9 +30,9 @@ Institutional Council members are noted with each institution.
 - [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
-The process for becoming a Steering Council Member is documented in the [Governance document](https://github.com/opendatacube/governance/blob/master/governance.md#council-membership) 
+The process for becoming a Steering Council Member is documented in the [Governance document](governance.md#council-membership)
 
 The following tasks need to be completed when a new member joins the steering council:
 - Announce the new member on the Open Data Cube mailing list
 - Make the new member an org owner and Open Data Cube Github organizations
-- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](https://github.com/opendatacube/governance/blob/master/people.md)
+- Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](people.md)
