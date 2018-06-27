@@ -13,8 +13,7 @@ Names are followed by GitHub usernames.
 - Randall Sunne ([USGS](https://www.usgs.gov/))
 - Tony Butzer ([USGS](https://www.usgs.gov/))
 - Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
-- Otto Wagner, @caffeine-potent ([AMA](http://www.ama-inc.com/))
-- Sanjay Gowda, @sgowda1 ([AMA](http://www.ama-inc.com/))
+- Syed Rizvi, ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
 
 ## Institutional Partners
