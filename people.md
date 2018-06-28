@@ -15,6 +15,7 @@ Names are followed by GitHub usernames.
 - Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
 - Syed Rizvi, ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
+- George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
 
 ## Institutional Partners
 
