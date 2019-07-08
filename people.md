@@ -2,16 +2,16 @@
 
 Names are followed by GitHub usernames.
 
-## Steering Council 2018
+## Steering Council 2019
 
-- Damien Ayers, @omad (Chair from May-Oct 2018) ([Geoscience Australia](http://www.ga.gov.au/))
-- Alex Leith, @alexgleith (Secretariat member) (CRCSI)
+- Rob Woodcock, @woodcockr (Chair from June-Nov 2019) ([CSIRO](https://www.csiro.au/))
+- Chris Morgan, @chriscmorgan (Secretariat member) (CRCSI)
 - Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
-- Matt Paget, @mpaget ([CSIRO](https://www.csiro.au/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
-- David Gavin, @GypsyBojangles ([Geoscience Australia](http://www.ga.gov.au/))
+- Kirill Kouzoubov, @Kirill888 ([Geoscience Australia](http://www.ga.gov.au/))
+- Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Randall Sunne ([USGS](https://www.usgs.gov/))
-- Tony Butzer ([USGS](https://www.usgs.gov/))
+- Tony Butzer, @tonybutzer ([USGS](https://www.usgs.gov/))
 - Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
 - Syed Rizvi, ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
