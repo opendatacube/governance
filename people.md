@@ -5,7 +5,6 @@ Names are followed by GitHub usernames.
 ## Steering Council 2019
 
 - Rob Woodcock, @woodcockr (Chair from June-Nov 2019) ([CSIRO](https://www.csiro.au/))
-- Chris Morgan, @chriscmorgan (Secretariat member) (FrontierSI)
 - Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
 - Kirill Kouzoubov, @Kirill888 ([Geoscience Australia](http://www.ga.gov.au/))
@@ -15,7 +14,8 @@ Names are followed by GitHub usernames.
 - Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
 - Syed Rizvi, ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
-- George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
+- Chris Morgan, @chriscmorgan (Secretariat member) (FrontierSI)
+- George Dyke, @gamedaygeorge (Secretariat member) ([Symbios](http://symbios.space))
 
 ## Institutional Partners
 
