@@ -11,7 +11,6 @@ Names are followed by GitHub usernames.
 - Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Randall Sunne ([USGS](https://www.usgs.gov/))
 - Tony Butzer, @tonybutzer ([USGS](https://www.usgs.gov/))
-- Belle Tissott, @bellemae ([Geoscience Australia](http://www.ga.gov.au/))
 - Syed Rizvi, ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
 - Chris Morgan, @chriscmorgan (Secretariat member) (FrontierSI)
