@@ -8,6 +8,7 @@ Names are followed by GitHub usernames.
 - Luigi di Fraia ([Catapult SA](https://sa.catapult.org.uk/))
 - Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
+- Paul Haesler, @SpacemanPaul ([CSIRO](https://www.csiro.au/))
 - Kirill Kouzoubov, @Kirill888 ([Geoscience Australia](http://www.ga.gov.au/))
 - Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Randall Sunne ([USGS](https://www.usgs.gov/))
