@@ -5,7 +5,7 @@ Names are followed by GitHub usernames.
 ## Steering Council 2019
 
 - Rob Woodcock, @woodcockr (Chair from June-Nov 2019) ([CSIRO](https://www.csiro.au/))
-- Luigi di Fraia ([Catapult SA](https://sa.catapult.org.uk/))
+- Luigi di Fraia, @luigidifraia ([Catapult SA](https://sa.catapult.org.uk/))
 - Federica Moscato ([Catapult SA](https://sa.catapult.org.uk/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
 - Paul Haesler, @SpacemanPaul ([CSIRO](https://www.csiro.au/))
