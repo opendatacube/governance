@@ -56,7 +56,7 @@ Chair of Steering Council
 
 The Project will have a Chair of the Steering Council. The Chair has the authority to make all final decisions for The Project. In practice the Chair chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the Chair will only rarely assert his/her final authority. Because rarely used, we refer to the Chair’s final authority as a “special” or “overriding” vote. When it does occur, the Chair override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the Chair to make a decision on a specific matter. To ensure the integrity of The Project, The Project encourages others to fork the project if they disagree with the overall direction the Steering Council. The Chair may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
 
-The Chair will be selected from amongst the Steering Council membership and reside in that role for a period of six months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
+The Chair will be selected from amongst the Steering Council membership and reside in that role for a period of twelve months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation). 
 
 Chairs are selected by self nomination, and if there is more than on nominee, then a vote is undertaken by all Steering Council members.
 
