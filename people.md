@@ -28,7 +28,6 @@ Institutional Council members are noted with each institution.
 - [CSIRO](https://www.csiro.au/)
 - [NASA](https://www.nasa.gov/)
 - [AMA](http://www.ama-inc.com/)
-- [IDEAM](http://www.ideam.gov.co/)
 - [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
