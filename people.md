@@ -1,8 +1,8 @@
-# Steering Council and Institutional Partners
+# Steering Council
 
 Names are followed by GitHub usernames.
 
-## Steering Council 2019
+## Current Steering Council Members
 
 - Rob Woodcock, @woodcockr (Chair from June 2019-June 2020) ([CSIRO](https://www.csiro.au/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
