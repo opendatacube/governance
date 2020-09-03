@@ -1,8 +1,8 @@
-# Steering Council and Institutional Partners
+# Steering Council
 
 Names are followed by GitHub usernames.
 
-## Steering Council 2019
+## Current Steering Council Members
 
 - Rob Woodcock, @woodcockr (Chair from June 2019-June 2020) ([CSIRO](https://www.csiro.au/))
 - Peter Wang, @petewa ([CSIRO](https://www.csiro.au/))
@@ -18,18 +18,6 @@ Names are followed by GitHub usernames.
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
 - Stephan Meißl ([OOX](https://eox.at/))
 - Fabian Schindler, @constantinius ([OOX]())
-
-## Institutional Partners
-
-### Tier 1
-
-Institutional Council members are noted with each institution.
-
-- [Geoscience Australia](http://www.ga.gov.au/)
-- [CSIRO](https://www.csiro.au/)
-- [NASA](https://www.nasa.gov/)
-- [AMA](http://www.ama-inc.com/)
-- [USGS](https://www.usgs.gov/)
 
 ## New Steering Council Members
 

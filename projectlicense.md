@@ -14,7 +14,6 @@ limitations under the License.
 
 - Copyright (c) 2015-, Open Data Cube Development Team
 
-
 ## About the Open Data Cube Development Team
 
 The Open Data Cube Development Team is the set of all contributors to the Open Data Cube.
@@ -31,7 +30,7 @@ over their contributions to Open Data Cube. But, it is important to note that th
 contributions are typically only changes to the repositories. Thus, the Open Data Cube
 source code, in its entirety is not the copyright of any single person or
 institution.  Instead, it is the collective copyright of the entire Open Data Cube
-Development Team.  If individual contributors want to maintain a record of what
+Development Team. If individual contributors want to maintain a record of what
 changes/contributions they have specific copyright on, they should indicate
 their copyright in the commit message of the change, when they commit the
 change to one of the Open Data Cube repositories.
