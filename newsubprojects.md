@@ -8,7 +8,6 @@ There are two ways that new Subprojects are created:
 1. Direct Subproject creation.
 2. Incorporation of an existing external Subproject.
 
-
 ## Criteria for official Subprojects
 
 The following criteria will be used in evaluating Subprojects for incorporation into the official
@@ -33,7 +32,6 @@ develop and maintain the Subproject in an official capacity?
 
 The two paths for official Subproject creation are now detailed.
 
-
 ## Direct Subproject creation
 
 In some cases, Steering Council members can immediately create new official Subprojects in the main
@@ -41,7 +39,6 @@ Open Data Cube organization. This option will be used when the new Subproject is
 existing scope, activities and development of the Open Data Cube. The process for direct Subproject
 creation is minimal and informal: Steering Council members should be in consensus about the
 Subproject's creation and notify the main Open Data Cube list of its creation.
-
 
 ## Incorporation of an existing external Subproject
 
@@ -54,7 +51,6 @@ software in other public venues.
 
 When a Subproject is incorporated, it becomes an officialy supported and maintained part
 of Project Open Data Cube and is moved to the [Open Data Cube](https://github.com/opendatacube) GitHub organization.
-
 
 ### Proposal for incorporation
 
@@ -104,7 +100,6 @@ steps will be taken:
 5. Copyright notices in individual files should be updated to the standard form described
    in our [Open Data Cube License](https://raw.githubusercontent.com/opendatacube/governance/master/projectlicense.md).
 
-
 ## Incubation of Subprojects
 
 Incubation refers to the process of a Subproject initially being developed outside the official
@@ -124,7 +119,6 @@ If there are questions about whether incubation is appropriate for a given Subpr
 parties should simply start a discussion on the main Open Data Cube list to get community and Steering
 Council feedback.
 
-
 ### Incubation in the [opendatacube-incubator](https://github.com/opendatacube-incubator) organization
 
 If a Subproject team knows from the start that it would eventually like its Subproject to be part
@@ -139,7 +133,6 @@ The goals of the incubation in the [opendatacube-incubator](https://github.com/o
   that will help them develop and refine a clear and concise integration proposal.
 * Allow the community to distinguish between officially supported Subprojects and experimental
   Subprojects pursued by members of the community.
-
 
 #### Repository management policy for incubator projects
 
@@ -185,7 +178,7 @@ taken:
 1. A GitHub repository will be created under the Open Data Cube-incubator organization
 2. A GitHub team will be created with read/write access to the repository, including the
    Advocate.
-4. The standard Open Data Cube [LICENSE](https://raw.githubusercontent.com/opendatacube/governance/master/projectlicense.md) file that
+3. The standard Open Data Cube [LICENSE](https://raw.githubusercontent.com/opendatacube/governance/master/projectlicense.md) file that
    is maintained in this governance repository will be added to the new repository.
 4. A member of the Steering Council will announce the newly incubated Subproject on the
    main Open Data Cube list.
