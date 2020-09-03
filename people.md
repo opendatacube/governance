@@ -19,18 +19,6 @@ Names are followed by GitHub usernames.
 - Stephan Meißl ([OOX](https://eox.at/))
 - Fabian Schindler, @constantinius ([OOX]())
 
-## Institutional Partners
-
-### Tier 1
-
-Institutional Council members are noted with each institution.
-
-- [Geoscience Australia](http://www.ga.gov.au/)
-- [CSIRO](https://www.csiro.au/)
-- [NASA](https://www.nasa.gov/)
-- [AMA](http://www.ama-inc.com/)
-- [USGS](https://www.usgs.gov/)
-
 ## New Steering Council Members
 
 The process for becoming a Steering Council Member is documented in the [Governance document](governance.md#council-membership)

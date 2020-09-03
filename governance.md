@@ -1,13 +1,12 @@
 # Main Governance Document
 
 The official version of this document, along with a list of
-individuals and institutions in the roles defined in the governance
+individuals in the roles defined in the governance
 section below, is contained in The Project Governance Repository at:
 
 [https://github.com/opendatacube/governance](https://github.com/opendatacube/governance)
 
-The Project
-===========
+## The Project
 
 The **Open Data Cube** (The Project) is an open source software project. The goal of The Project is to develop open source software and deploy open and public websites and services that provide a new approach for organising and analysing the vast quantities of satellite imagery and other Earth observation data, making it quicker and easier to use in diverse fields ranging across environment, water quality, hazards and agriculture. The Software developed
 by The Project is released under the **Apache 2** (or similar) open source license,
@@ -27,7 +26,6 @@ entity or none. Contributors participate in the project by submitting,
 reviewing and discussing GitHub Pull Requests and Issues and participating in
 open and public Project discussions on GitHub, Slack, Google Groups, and mailing lists. The foundation of Project participation is openness and transparency.
 
-
 There are also many other Contributors listed in the logs of other repositories of
 the Open Data Cube project.
 
@@ -36,32 +34,28 @@ Contributors work on behalf of and are responsible to the larger Project
 Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
 
-Governance
-==========
+## Governance
 
 This section describes the governance and leadership model of The Project.
 
 The foundations of Project governance are:
 
--   Openness & Transparency
--   Active Contribution
--   Institutional Neutrality
-
+- Openness & Transparency
+- Active Contribution
+- Institutional Neutrality
 
 The Project leadership will consist a Steering Council, made up of a group of ongoing
 active contributors.
 
-Chair of Steering Council
--------------------------
+## Chair of Steering Council
 
 The Project will have a Chair of the Steering Council. The Chair has the authority to make all final decisions for The Project. In practice the Chair chooses to defer that authority to the consensus of the community discussion channels and the Steering Council (see below). It is expected that the Chair will only rarely assert his/her final authority. Because rarely used, we refer to the Chair’s final authority as a “special” or “overriding” vote. When it does occur, the Chair override typically happens in situations where there is a deadlock in the Steering Council or if the Steering Council asks the Chair to make a decision on a specific matter. To ensure the integrity of The Project, The Project encourages others to fork the project if they disagree with the overall direction the Steering Council. The Chair may delegate his/her authority on a particular decision or set of decisions to any other Council member at his/her discretion.
 
-The Chair will be selected from amongst the Steering Council membership and reside in that role for a period of up to twelve months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation). 
+The Chair will be selected from amongst the Steering Council membership and reside in that role for a period of twelve months in duration, at which time the position will rotate to another member of the Steering Council (where possible from an alternative organisation affiliation).
 
 Chairs are selected by self nomination, and if there is more than on nominee, then a vote is undertaken by all Steering Council members.
 
-Steering Council
-----------------
+## Steering Council
 
 The Project will have a **Steering Council** that consists of Project Contributors
 who have produced contributions that are substantial in quality and quantity,
@@ -80,16 +74,16 @@ in terms of project direction, to potentially less experienced contributors.
 The Steering Council and its Members play a special role in certain situations.
 In particular, the Council may:
 
--   Make decisions about the overall scope, vision and direction of the
+- Make decisions about the overall scope, vision and direction of the
     project.
--   Make decisions about strategic collaborations with other organizations or
+- Make decisions about strategic collaborations with other organizations or
     individuals.
--   Make decisions about specific technical issues, features, bugs and pull
+- Make decisions about specific technical issues, features, bugs and pull
     requests. They are the primary mechanism of guiding the code review process
     and merging pull requests.
--   Make decisions about the Services that are run by The Project and manage
+- Make decisions about the Services that are run by The Project and manage
     those Services for the benefit of the Project and Community.
--   Make decisions when regular community discussion doesn’t produce consensus
+- Make decisions when regular community discussion doesn’t produce consensus
     on an issue in a reasonable time frame.
 
 ### Council membership
@@ -137,9 +131,9 @@ range of companies, universities and non-profit organizations. Because of this,
 it is possible that Members will have conflict of interests. Such conflict of
 interests include, but are not limited to:
 
--   Financial interests, such as investments, employment or contracting work,
+- Financial interests, such as investments, employment or contracting work,
     outside of The Project that may influence their work on The Project.
--   Access to proprietary information of their employer that could potentially
+- Access to proprietary information of their employer that could potentially
     leak into their work with The Project.
 
 All members of the Council, Chair included, shall disclose to the rest of the
@@ -185,84 +179,7 @@ data can be used. The recommended open data licence is the Creative Commons Attr
 4.0 International license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Licenses for commercial data will be vary.
 
-Institutional Partners and Funding
-==================================
-
-The Steering Council are the primary leadership for the project. No
-outside institution, individual or legal entity has the ability to own,
-control, usurp or influence the project other than by participating in the
-Project as Contributors and Council Members. However, because institutions are
-the primary funding mechanism for the project, it is important to formally
-acknowledge institutional participation in the project. These are Institutional
-Partners.
-
-An **Institutional Contributor** is any individual Project Contributor who
-contributes to the project as part of their official duties at an Institutional
-Partner. Likewise, an **Institutional Council Member** is any Project Steering
-Council Member who contributes to the project as part of their official duties
-at an Institutional Partner.
-
-With these definitions, an **Institutional Partner** is any recognized legal entity
-in Australia or elsewhere that employs at least one Institutional
-Contributor or Institutional Council Member. Institutional Partners can be
-for-profit or non-profit entities.
-
-Institutions become eligible to become an Institutional Partner by
-employing individuals who actively contribute to The Project as part
-of their official duties. To state this another way, the only way for
-an Institutional Partner to influence the project is by actively
-contributing to the open development of the project, on equal terms
-with any other member of the community of Contributors and Council
-Members. Merely using Open Data Cube Software or Services in an
-institutional context does not allow an entity to become an
-Institutional Partner. Financial gifts do not enable an entity to
-become an Institutional Partner. Once an institution becomes eligible
-for Institutional Partnership, the Steering Council must nominate and
-approve the Partnership.
-
-If an existing Institutional Partner no longer has a contributing employee,
-they will be given a one-year grace period for other employees to begin
-contributing.
-
-An Institutional Partner is free to pursue funding for their work on The
-Project through any legal means. This could involve a non-profit organization
-raising money from private foundations and donors or a for-profit company
-building proprietary products and services that leverage Project Software and
-Services. Funding acquired by Institutional Partners to work on The Project is
-called Institutional Funding. However, no funding obtained by an Institutional
-Partner can override The Steering Council. If a Partner has
-funding to do Open Data Cube work and the Council decides to not pursue that
-work as a project, the Partner is free to pursue it on their own. However in
-this situation, that part of the Partner’s work will not be under the
-Open Data Cube umbrella and cannot use the Project trademarks in a way that
-suggests a formal relationship.
-
-To acknowledge institutional contributions, there are two level of Institutional
-Partners, with associated benefits:
-
-**Tier 1** = an institution with at least one Institutional Council Member
-
--   Acknowledged on the Open Data Cube websites, in talks and T-shirts.
--   Ability to acknowledge their own funding sources on the Open Data Cube
-    websites, in talks and T-shirts.
--   Unlimited participation in the annual Institutional Partners Workshop, held
-    during the (planned) annual Open Data Cube Project Retreat. This allows the
-    Institutional Partner to invite as many of their own employees and funding
-    sources and collaborators as they want, even if they are not project
-    Contributors or Council Members.
--   Ability to influence the project through the participation of their Council
-    Member.
--   Council Members are invited to the bi-annual Open Data Cube Developer Meeting.
-
-**Tier 2** = an institution with at least one Institutional Contributor
-
--   Same benefits as Tier 1 level Partners, but:
--   Only Institutional Contributors are invited to the Institutional Partners
-    Workshop and bi-annual Open Data Cube Developer Meeting.
-
-
-Changing the Governance Documents
-=================================
+## Changing the Governance Documents
 
 Changes to the governance documents are submitted via a GitHub pull
 request to The Project's governance documents GitHub repository at
