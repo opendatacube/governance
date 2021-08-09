@@ -8,7 +8,7 @@ Names are followed by GitHub usernames.
 - Paul Haesler, @SpacemanPaul ([CSIRO](https://www.csiro.au/))
 - Kirill Kouzoubov, @Kirill888 (independent)
 - Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
-- David Gavin, @GypsyBojangles ([Geoscience Australia](http://www.ga.gov.au/))
+- Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
 - Robbi Bishop-Taylor, @robbibt ([Geoscience Australia](http://www.ga.gov.au/))
 - Randall Sunne ([USGS](https://www.usgs.gov/))
 - Tony Butzer, @tonybutzer ([USGS](https://www.usgs.gov/))
