@@ -14,6 +14,7 @@ Names are followed by GitHub usernames.
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
 - Caitlin Adams, @caitlinadams (FrontierSI)
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
+- Alex Leith, @alexgleith (independent)
 
 ## New Steering Council Members
 
