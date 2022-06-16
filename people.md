@@ -5,7 +5,7 @@ Names are followed by GitHub usernames.
 ## Current Steering Council Members
 
 - Rob Woodcock, @woodcockr ([CSIRO](https://www.csiro.au/))
-- Paul Haesler, @SpacemanPaul ([CSIRO](https://www.csiro.au/))
+- Paul Haesler, @SpacemanPaul ([Geoscience Australia](http://www.ga.gov.au/))
 - Kirill Kouzoubov, @Kirill888 (independent)
 - Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
