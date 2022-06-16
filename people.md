@@ -7,18 +7,13 @@ Names are followed by GitHub usernames.
 - Rob Woodcock, @woodcockr ([CSIRO](https://www.csiro.au/))
 - Paul Haesler, @SpacemanPaul ([CSIRO](https://www.csiro.au/))
 - Kirill Kouzoubov, @Kirill888 (independent)
-- Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
 - Robbi Bishop-Taylor, @robbibt ([Geoscience Australia](http://www.ga.gov.au/))
-- Randall Sunne ([USGS](https://www.usgs.gov/))
 - Tony Butzer, @tonybutzer ([USGS](https://www.usgs.gov/))
 - Syed Rizvi, @srrizvi (Chair from June 2020 - June 2021) ([AMA](http://www.ama-inc.com/))
 - Andrew Cherry, @AMA-AC ([AMA](http://www.ama-inc.com/))
-- Chris Morgan, @chriscmorgan (FrontierSI)
 - Caitlin Adams, @caitlinadams (FrontierSI)
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
-- Stephan Meißl ([EOX](https://eox.at/))
-- Fabian Schindler, @constantinius ([EOX]())
 
 ## New Steering Council Members
 
