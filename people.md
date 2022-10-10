@@ -7,6 +7,7 @@ Names are followed by GitHub usernames.
 - Rob Woodcock, @woodcockr ([CSIRO](https://www.csiro.au/))
 - Paul Haesler, @SpacemanPaul ([Geoscience Australia](http://www.ga.gov.au/))
 - Kirill Kouzoubov, @Kirill888 (independent)
+- Tisham Dhar, @whatnick ([independent](https://twitter.com/whatnick))
 - Alex Leith, @alexgleith ([Geoscience Australia](http://www.ga.gov.au/))
 - Edward Boamah, @nanaboamah89 ([Digital Earth Africa](https://www.digitalearthafrica.org/))
 - Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
@@ -29,6 +30,12 @@ The following tasks need to be completed when a new member joins the steering co
 - Announce the new member on the Open Data Cube mailing list
 - Make the new member an org owner and Open Data Cube Github organizations
 - Add the new member to the list in the governance repo, and if appropriate, add their affiliation to the [institutional partner list](people.md)
+
+## Github Organisation Access
+
+All steering council members become administrators of the GitHub Organisation on joining. The administrator privilege is removed when they cease to be members of the steering council. They may still retain commit access to various repositories as team members for a [subproject](./newsubprojects.md).
+
+The various levels of repository access will be refined and realigned to fit with Github based [administration process](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization) by the steering council as time progresses.
 
 ## Previous Chairs
 - Syed Rizvi, @srrizvi (July 2021 - June 2022)
