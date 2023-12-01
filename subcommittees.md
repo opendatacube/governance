@@ -7,11 +7,18 @@ The Community Engagement Subcommittee is a voluntary group that focuses on broad
 
 Please reach out to current chair(s) for more information or to request a link for participating in our Monthly meetings that typically happen the last Thursday of each month at 7pm (UTC -4), 10am (UTC +11).
 
-### Current Chairs of CES as of November 2023:
+### Current Chair(s) of CES as of November 2023:
 Josh Baptist - joshua.r.baptist(at)ama-inc.com
 
 Oguz Yetkin - oguz.yetkin(at)ama-inc.com
 
 ## ODC Documentation Subcommittee Group:
-Chair: Syed Rizvi -- Syed.Rizvi(at)ama-inc.com
 
+### Description:
+ 
+The Documentation Subcommittee is responsible for maintaining and improving the technical documentation and website of the ODC framework. The group aims to provide clear, accurate, and up-to-date information on how to use and contribute to ODC.
+ 
+Please reach out to the current chair(s) for more information or to request a link for participating in our Monthly meetings that typically happen the last Monday of each month at 6pm (UTC -4),  9am (UTC +11).
+
+### Current Chair(s) of DS as of November 2023:
+Syed Rizvi -- Syed.Rizvi(at)ama-inc.com
