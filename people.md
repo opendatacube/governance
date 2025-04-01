@@ -11,10 +11,11 @@ Names are followed by GitHub usernames.
 - Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
 - Robbi Bishop-Taylor, @robbibt ([Geoscience Australia](http://www.ga.gov.au/))
 - Brian Terry, @brianterry-ama ([AMA](http://www.ama-inc.com/))
-- Josh Baptist ([AMA](http://www.ama-inc.com/))
-- Oguz Yetkin ([AMA](http://www.ama-inc.com/))
+- Josh Baptist, @JoshBaptist ([AMA](http://www.ama-inc.com/))
+- Oguz Yetkin, @oyetkin ([AMA](http://www.ama-inc.com/))
 - Caitlin Adams, @caitlinadams ([Geoscience Australia](http://www.ga.gov.au/))
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
+- Alex Leith, @alexgleith ([Auspatious](https://auspatious.com/)]
 
 ## New Steering Council Members
 
@@ -45,7 +46,6 @@ The various levels of repository access will be refined and realigned to fit wit
 - Andrew Cherry, @AMA-AC
 - Seffat Chowdhury
 - Edward Boamah, @nanaboamah89
-- Alex Leith, @alexgleith
 - Randall Sunne
 - Tony Butzer, @tonybutzer
 - Stephan Meißl
