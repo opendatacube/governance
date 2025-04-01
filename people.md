@@ -15,6 +15,7 @@ Names are followed by GitHub usernames.
 - Oguz Yetkin, @oyetkin ([AMA](http://www.ama-inc.com/))
 - Caitlin Adams, @caitlinadams ([Geoscience Australia](http://www.ga.gov.au/))
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
+- Ariana Barzinpour, @Ariana-B ([Geoscience Australia](http://www.ga.gov.au/))
 - Alex Leith, @alexgleith ([Auspatious](https://auspatious.com/)]
 
 ## New Steering Council Members
