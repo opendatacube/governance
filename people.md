@@ -4,11 +4,11 @@ Names are followed by GitHub usernames.
 
 ## Current Steering Council Members
 
-- Paul Haesler, @SpacemanPaul (Chair from July 2024 - June 2025) ([Geoscience Australia](http://www.ga.gov.au/))
+- Damien Ayers, @omad (Chair from July 2025 - June 2026) ([CSIRO](https://www.csiro.au/))
+- Paul Haesler, @SpacemanPaul ([Geoscience Australia](http://www.ga.gov.au/))
 - Rob Woodcock, @woodcockr ([CSIRO](https://www.csiro.au/))
 - Kirill Kouzoubov, @Kirill888 (independent)
 - Leon Greyling, @lgkgh ([Digital Earth Africa](https://www.digitalearthafrica.org/))
-- Damien Ayers, @omad ([Geoscience Australia](http://www.ga.gov.au/))
 - Robbi Bishop-Taylor, @robbibt ([Geoscience Australia](http://www.ga.gov.au/))
 - Brian Terry, @brianterry-ama ([AMA](http://www.ama-inc.com/))
 - Josh Baptist, @JoshBaptist ([AMA](http://www.ama-inc.com/))
@@ -17,6 +17,7 @@ Names are followed by GitHub usernames.
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
 - Ariana Barzinpour, @Ariana-B ([Geoscience Australia](http://www.ga.gov.au/))
 - Alex Leith, @alexgleith ([Auspatious](https://auspatious.com/))
+- Peter A. Jonsson, @pjonsson ([RISE](https://ri.se/en))
 
 ## New Steering Council Members
 
