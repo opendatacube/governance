@@ -17,6 +17,7 @@ Names are followed by GitHub usernames.
 - George Dyke, @gamedaygeorge ([Symbios](http://symbios.space))
 - Ariana Barzinpour, @Ariana-B ([Geoscience Australia](http://www.ga.gov.au/))
 - Alex Leith, @alexgleith ([Auspatious](https://auspatious.com/))
+- Peter A. Jonsson, @pjonsson ([RISE](https://ri.se/en))
 
 ## New Steering Council Members
 
