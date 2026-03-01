@@ -36,6 +36,7 @@ All steering council members become administrators of the GitHub Organisation on
 The various levels of repository access will be refined and realigned to fit with Github based [administration process](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization) by the steering council as time progresses.
 
 ## Previous Chairs
+- Paul Haesler, @SpacemanPaul (July 2024 - June 2025)
 - Rob Woodcock, @woodcockr (July 2023 - June 2024)
 - Caitlin Adams, @caitlinadams (July 2022 - June 2023)
 - Syed Rizvi, @srrizvi (July 2021 - June 2022)
